@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "uview-ui": "^2.0.31",
+    "uni-read-pages": "^1.0.5",
+    "uni-simple-router": "^2.0.7"
+  }
+}
