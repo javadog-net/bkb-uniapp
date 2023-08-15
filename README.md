@@ -1,43 +1,17 @@
 ## 📚项目介绍
 ### 避坑宝
 【避坑宝】**企业黑红名单吐槽小程序**是一个具有**吐槽发布企业信息的一个平台**，言论自由，评判自定，便于我们打工人分辨企业好坏。技术栈基于**SpringBoot+MybatisPlus+uniapp+uview2**等更多优秀组件及前沿技术开发，注释丰富，代码简洁，开箱即用。极其适合**项目分层实战**及业务流转对接，是个**练手学习简单项目的好机会**。
-<p align="center">     
-    <p align="center">
-       <a href='https://gitee.com/javadog-net/bkb-boot'>
-       <img src='https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/72d673c08ad3408a855073c76fa408d0~tplv-k3u1fbpfcp-zoom-1.image' alt='star'></img>
-       </a>
-        <a href="https://www.uviewui.com/">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/12b5532c30a741f2b4692e9c2cc3c494~tplv-k3u1fbpfcp-zoom-1.image" alt="uView">
-        </a> 
-        <a href="https://shiro.apache.org/">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ef716f69d387435597a9f785a575516f~tplv-k3u1fbpfcp-zoom-1.image" alt="shiro">
-        </a> 
-        <a href="http://spring.io/projects/spring-boot">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/78fce7b1c3ae4b74adec2008c807515c~tplv-k3u1fbpfcp-zoom-1.image" alt="spring-boot">
-        </a>
-        <a href="http://mp.baomidou.com">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9eaff895d83c492a8871c4958faf60da~tplv-k3u1fbpfcp-zoom-1.image" alt="mybatis-plus">
-        </a>  
-         <a href="http://hutool.cn/">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dd04bf1d1eea4de09a586c06c9449553~tplv-k3u1fbpfcp-zoom-1.image" alt="mybatis-plus">
-        </a> 
-        <a href="./LICENSE">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/12674878896f450eb1ec0062efc5f203~tplv-k3u1fbpfcp-zoom-1.image" alt="license Apache 2.0">
-        </a>
-    </p>
-</p>
-
 ******
 
 ## 🎁快速链接
 ### 公众号：**JavaDog程序狗**
 **关注公众号，发送 【bkb】或【避坑宝】，无任何套路即可获得**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/80ec682f7bec493bafa8d4bd43624ffa~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/80ec682f7bec493bafa8d4bd43624ffa_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 ## 🌱体验地址
 ### 小程序搜索【避坑宝】
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7573b59228a14daba9264b892ef2145b~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/7573b59228a14daba9264b892ef2145b_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 
 ##  🍯猜你喜欢
@@ -51,13 +25,13 @@
 ## 🍵主要功能模块
 ### 模块思维导图
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ed61462fa6b4f629860ebd242f0e5ac~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/7ed61462fa6b4f629860ebd242f0e5ac_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 #### 🛳️授权
 ##### 小程序授权
  用户通过**小程序搜索**【避坑宝】，进入界面进行授权，点击授权登录，**获取用户openid**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ef9b606cb56a46208890cc0e3f61e84f~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/ef9b606cb56a46208890cc0e3f61e84f_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 
 #### 🍭首页
@@ -73,7 +47,7 @@
 ##### 4.  **最新问题**
 > 展示问答回复最多的三个问题
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eaa944e40639444ba398a49033bb1347~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/eaa944e40639444ba398a49033bb1347_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 #### ⛄红黑榜
 ##### 1.企业黑榜
@@ -85,7 +59,7 @@
 ##### 3.企业详情
 > 展示吐槽企业信息，浏览/回复/点赞/热度等分数及发布时间，跟帖信息等
 
-![请添加图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/747b927e01ce4034b4b183f2d369f335~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/eaa944e40639444ba398a49033bb1347_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 #### 🎃发布
 ##### 1. 吐槽
@@ -94,7 +68,7 @@
 ##### 2. 提问
 > 可针对企业或者工作问题进行**任何提问**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/43b7156c5c2d4b478e712becbf3ec49b~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/43b7156c5c2d4b478e712becbf3ec49b_tplv-k3u1fbpfcp-zoom-1.jpg)
 ******
 #### 👻发布
 ##### 1. 问题列表
@@ -103,7 +77,7 @@
 ##### 2. 问题详情
 > 问题的详细描述，包含**点赞**和回**复数**以及**回复内容列表**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9d5406b489ef47b7a3417ba3ff2015ee~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/9d5406b489ef47b7a3417ba3ff2015ee_tplv-k3u1fbpfcp-zoom-1.jpg)
 ******
 #### 🌞我的
 ##### 1. 我的资料
@@ -121,8 +95,8 @@
 ##### 5. 退出
 > **授权信息清理**，跳转授权页面
 
-![请添加图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d52d531689814bfeaa9c75b81ee4f300~tplv-k3u1fbpfcp-zoom-1.image)
-![请添加图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4eb80e4b687242b6a89310818e8807c4~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/d52d531689814bfeaa9c75b81ee4f300_tplv-k3u1fbpfcp-zoom-1.jpg)
+![](https://img.javadog.net/blog/bkb/4eb80e4b687242b6a89310818e8807c4_tplv-k3u1fbpfcp-zoom-1.jpg)
 
 ## 🦁组件
 ### 后端组件
@@ -156,41 +130,43 @@
 	```
  2. 记得将小程序对应的appid，写入manifest.json里面的对应位置
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fc8e7e27afe14530ab985660daa83f92~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/fc8e7e27afe14530ab985660daa83f92_tplv-k3u1fbpfcp-zoom-1.png)
 
-	![图片转存失败，建议将图片保存下来直接上传
-         在这里插入图片描述(https://img-blog.csdnimg.cn/5a57eb2518714668b1bd7bcf968d4dbf.png)
+![](https://img.javadog.net/blog/bkb/5a57eb2518714668b1bd7bcf968d4dbf.png)	
 
-]()	
  3. 在HBuilderX工具下运行，选择需要运行到小程序
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ff44a9592004336a3ba2aa214689042~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/3ff44a9592004336a3ba2aa214689042_tplv-k3u1fbpfcp-zoom-1.png)
+
 
  4. 如需调整环境，请在/common/config/env.js修改环境变量
-
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ca69a3ff5f5345eeb7234770b927656f~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/ca69a3ff5f5345eeb7234770b927656f_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 
 ### 👦启动后端
  1. 开发工具内配置好，并将**maven**配置好，建议使用**阿里云镜像**
- 2. **application.yml配置文件**中配置微信小程序参数**appId**，**appSecret**
+
+
+ 2. application.yml配置文件中配置微信小程序参数**appId**，**appSecret**
  
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/506cb037f08a4a25aed406b3eceddbb5~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/506cb037f08a4a25aed406b3eceddbb5_tplv-k3u1fbpfcp-zoom-1.png)
 
  3. 将chat-provider包下的/doc/SQL/db_chat.sql进行本地执行，并在application配置文件中修改数据库配置
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4fc0b90d3c52490596bde972cde3de0e~tplv-k3u1fbpfcp-zoom-1.image)
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c583c99ffd2e4f2b98c17b1eefef5a88~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/4fc0b90d3c52490596bde972cde3de0e_tplv-k3u1fbpfcp-zoom-1.png)
+
+![](https://img.javadog.net/blog/bkb/4fc0b90d3c52490596bde972cde3de0e_tplv-k3u1fbpfcp-zoom-1.png)
  	
  4. 运行启动SpringBoot项目，如见到以下日志即为启动成功。
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/55e831ee6de348f8aaa57753cf9c7857~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/55e831ee6de348f8aaa57753cf9c7857_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 ## 🤑体验
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/50b68f3b0905408985a73a0160e2809c~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/bkb/50b68f3b0905408985a73a0160e2809c_tplv-k3u1fbpfcp-zoom-1.png)
+
 ## 😊总结
 本篇文章以**实战项目**形式进行展开，适合咱们初学者进行实际开发体验，熟练**SpringBoot**同时，也加深分层的思路，并且融会贯通前端**uniapp/vue**等知识，是一个**知识全面**的概括，内容简单通俗易懂，希望对大家有所帮助。
 
-![里面有我喜欢的人你能找到吗？](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dc0d63b469d141018ace1214790d27cd~tplv-k3u1fbpfcp-zoom-1.image)
+![里面有我喜欢的人你能找到吗？](https://img.javadog.net/blog/bkb/dc0d63b469d141018ace1214790d27cd_tplv-k3u1fbpfcp-zoom-1.jpg)
 
 
 | JavaDog| 狗屋地址 |
